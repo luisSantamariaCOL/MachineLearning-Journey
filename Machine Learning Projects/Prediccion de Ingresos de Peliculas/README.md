@@ -26,3 +26,4 @@ Otras disciplinas:
 Certificado de aprobación del curso:
 
 https://platzi.com/p/luisestebansantamar%C3%ADa/curso/1178-scikit/diploma/detalle/
+![certificado](https://raw.githubusercontent.com/luisSantamariaCOL/MachineLearning-Journey/main/Machine%20Learning%20Projects/Prediccion%20de%20Ingresos%20de%20Peliculas/luis_santamaria_certificado_platzi.jpg)
